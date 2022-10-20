@@ -1,0 +1,3 @@
+git удаленно добавляет источник https://github.com/szfadmin/1488.git
+ ветвь git -M main
+ git push -u origin основной
